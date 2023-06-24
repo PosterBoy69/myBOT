@@ -1,6 +1,0 @@
-telethon
-python-decouple
-aiohttp
-requests
-telegraph
-pymongo
